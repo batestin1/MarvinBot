@@ -6,7 +6,7 @@
 <h3 align="center">=================</h3>
 
 <p align="center">
-  <img src="img/.png">
+  <img src="img/capa.png">
 </p>
 
 <h3>About the project</h3>
